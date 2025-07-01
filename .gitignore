@@ -1,0 +1,10 @@
+*.pdf
+.Rproj.user
+*.Rproj
+.Rhistory
+.RData
+.Ruserdata
+*.csv
+*-concordance.tex
+*.tex
+*.log
